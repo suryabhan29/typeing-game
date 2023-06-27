@@ -1,0 +1,21 @@
+.s_tbdr{
+    border: 1px dashed #000;
+}
+.s_mysection{
+    border: 10px solid #918EF0 !important;
+}
+
+.s_h33{
+    height: 240px;
+}
+.s_h33_c{
+    background-image: url("../img/hand.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+}
+.s_1{
+    width: 50px;
+    height: 50px;
+    background-image: url("../img/keys1.png");
+}
